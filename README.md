@@ -17,7 +17,7 @@ I am a Full-stack  Web Developer .
  💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
 
 
-![Profile views](https://github.com/MODI-HUB)  <img src="https://img.shields.io/github/followers/Souravdey777?label=Follow" style=" float:left, margin-right:10px" />
+![Profile views](https://github.com/MODI-HUB)  
 
 
 ---
