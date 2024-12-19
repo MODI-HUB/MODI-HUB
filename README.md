@@ -2,9 +2,6 @@
 
 ---
 
-<p align="center">
-  <img src=""D:\Figma\IMG20240513222347.jpg"" width="100%" title="Intro Card" alt="Intro Card">
-</p>
 
 I am a Full-stack  Web Developer .
  
