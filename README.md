@@ -17,7 +17,7 @@ I am a Full-stack  Web Developer .
  💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
 
 
-![Profile views](https://github.com/MODI-HUB)  
+
 
 
 ---
@@ -43,7 +43,7 @@ I am a Full-stack  Web Developer .
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MODI-HUB&show_icons=true&hide_border=true)
 
 Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/souravdey777)
 
