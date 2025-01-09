@@ -1,20 +1,20 @@
-<h1 align="center">Hi 👋, I'm Sahitya Kumar Choubey</h1>
+<h1 align="center">Hi 👋, I'm Karan Kumar Jha</h1>
 <h3 align="center">Passionate Full Stack Web Developer</h3>
 
 [![](https://visitcount.itsvg.in/api?id=SuperSahitya&icon=2&color=0)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on [bookworm](https://github.com/SuperSahitya/bookworm-but-better)
+- 🔭 I’m currently working on [know_ur_sport](https://github.com/SuperSahitya/bookworm-but-better)
 
-- 👯 I’m looking to collaborate on [create-default-app](https://github.com/accelerateOSS/create-default-app)
+- 👯 I’m looking to collaborate on []()
 
-- 👨‍💻 All of my projects are available at [https://supersahitya.github.io/](https://supersahitya.github.io/)
+- 👨‍💻 All of my projects are available at [https://github.com/MODI-HUB](https://github.com/MODI-HUB)
 
-- 💬 Ask me about *Next.js, Typescript, MERN*
+- 💬 Ask me about *Next.js, React, MERN*
 
-- 📫 You can reach me via *sahityakumarchoubey@gmail.com*
+- 📫 You can reach me via *kkj060503@gmail.com*
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahitya-kumar-choubey/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-kumar-jha-5a4a41253/) 
 
 
 ## 💻 Tech Stack:
