@@ -28,4 +28,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=MODI-HUB&theme=apprentice&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MODI=HUB&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=MODI-HUB&limit=5&theme=dark&combine_all_yearly_contributions=true)
